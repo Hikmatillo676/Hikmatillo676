@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0099FF&height=180&section=header&text=Salom%2C%20men%20Hikmatillo%20%20%F0%9F%91%8B" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0099FF&height=180&section=header&text=Salom%2C%20men%20Hikmatillo%20man%20%F0%9F%91%8B" /> 
 </p>
 
 <!-- ============================================= -->
@@ -12,15 +12,9 @@
        style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 255, 153, 0.4);"/>
 </p>
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="150" alt="Arduino Real System" style="vertical-align: middle; margin-right: 20px;"/>
-</p>
-
----
-
-<!-- Chiroyli animatsiyali sarlavha -->
+<!-- Hamma so'zlar bilan chiroyli animatsiya -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=10000&color=00FF99&center=true&vCenter=true&width=900&lines=Salom!+Men+Hikmatillo+man+%F0%9F%91%8B;Robotics+Engineer+%F0%9F%A4%96;Arduino+%26+ESP32+Developer+%F0%9F%9B%A0%EF%B8%8F;IoT+%26+AI+Robot+Builder+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=31&duration=2800&pause=9000&color=00FF99&center=true&vCenter=true&width=1000&lines=Salom!+Men+Hikmatillo+man+%F0%9F%91%8B;Robotics+Engineer+%F0%9F%A4%96;Arduino+%26+ESP32+Developer+%F0%9F%9B%A0%EF%B8%8F;IoT+%7C+AI+%7C+Embedded+Systems;Robot+War+Developer+%E2%9A%94%EF%B8%8F;Robot+Futbol+Developer+%E2%9A%BD%EF%B8%8F;Chiziq+izdoshi+%7C+Aqlli+uy+%F0%9F%8F%A0;WiFi+%7C+Bluetooth+Robot+Builder" />
 </p>
 
 ---
