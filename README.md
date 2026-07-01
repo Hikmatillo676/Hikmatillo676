@@ -15,7 +15,15 @@
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="150" alt="Arduino Real System" style="vertical-align: middle; margin-right: 20px;"/>
 </p>
---- 
+
+---
+
+<!-- Chiroyli animatsiyali sarlavha -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=10000&color=00FF99&center=true&vCenter=true&width=900&lines=Salom!+Men+Hikmatillo+man+%F0%9F%91%8B;Robotics+Engineer+%F0%9F%A4%96;Arduino+%26+ESP32+Developer+%F0%9F%9B%A0%EF%B8%8F;IoT+%26+AI+Robot+Builder+%F0%9F%A4%96" />
+</p>
+
+---
 
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=00FF99&height=100&width=900&text=%F0%9F%A4%96%20Robotics%20Engineer%20|%20Arduino%20|%20ESP32%20|%20IoT%20|%20AI&fontSize=26" /> 
