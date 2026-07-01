@@ -2,10 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0099FF&height=180&section=header&text=%F0%9F%91%8B%20Salom,%20men%20Hikmatillo&fontSize=40" />
 </p>
 
-<!-- 👨‍💻 Uyda kod yozayotgan bola animatsiyasi va Arduino / ESP32 rasmlari -->
+<!-- 👨‍💻 Noutbukda kod yozayotgan o'g'il bola dasturchi animatsiyasi -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Coding From Home Animation" style="vertical-align: middle; margin-right: 20px;"/>
-  <img src="https://www.espressif.com/sites/default/files/dev-board/ESP32-DevKitC-V4-front.png" width="220" alt="ESP32 Board" style="vertical-align: middle; margin-left: 20px;"/>
+  <img src="https://media.giphy.com/media/u04b5L26gwwwWIn6mg/giphy.gif" width="350" alt="Boy Coding Animation"/>
 </p>
 
 ---
@@ -27,7 +26,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="120"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="120"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Espressif_Logo.svg" width="180"/>
+  <img src="https://www.espressif.com/sites/default/files/dev-board/ESP32-DevKitC-V4-front.png" width="230"/>
 </p>
 
 ---
