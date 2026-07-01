@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0099FF&height=180&section=header&text=%F0%9F%91%8B%20Salom,%20men%20Hikmatillo&fontSize=40" />
 </p>
 
+<!-- 👨‍💻 Uyda kod yozayotgan bola animatsiyasi va Arduino vizuali -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NndXN4Yjk1YWE3bWZ0Z3A1bXg0cnI2YWptbndidHoxM3B3eXU0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="Coding From Home Animation"/>
+</p>
+
 ---
 
 <p align="center">
@@ -113,7 +118,6 @@
 </p>
 
 <p align="center">
-  <!-- 100% ochiladigan super barqaror statistika kartalari -->
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hikmatillo-Developer&theme=tokyonight" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hikmatillo-Developer&theme=tokyonight" />
 </p>
@@ -135,7 +139,6 @@
 </p>
 
 <p align="center">
-  <!-- Sinmaydigan yangi kuboklar dizayni -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hikmatillo-Developer&theme=tokyonight" />
 </p>
 
