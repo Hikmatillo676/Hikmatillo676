@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00FF99¢er=true&vCenter=true&width=900&lines=Arduino+Developer;ESP32+Developer;Robotics+Engineer;Embedded+Systems;IoT+Developer;Robot+Builder;Robot+War+Developer;Robo+Futbol+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Arduino+Developer;ESP32+Developer;Robotics+Engineer;Embedded+Systems;IoT+Developer;Robot+Builder;Robot+War+Developer;Robo+Futbol+Developer" />
 </p>
 
 ---
@@ -113,8 +113,9 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hikmatillo-Developer&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hikmatillo-Developer&layout=compact&theme=tokyonight"/>
+  <!-- 100% ochiladigan super barqaror statistika kartalari -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hikmatillo-Developer&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hikmatillo-Developer&theme=tokyonight" />
 </p>
 
 ---
@@ -134,7 +135,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hikmatillo-Developer&theme=onedark&row=2&column=4"/>
+  <!-- Sinmaydigan yangi kuboklar dizayni -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hikmatillo-Developer&theme=tokyonight" />
 </p>
 
 ---
@@ -144,17 +146,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hikmatillo-Developer&theme=tokyo-night"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF99&height=70&width=300&text=🐍%20Ilon%20Animatsiyasi&fontSize=28" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hikmatillo-Developer/Hikmatillo-Developer/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hikmatillo-Developer&theme=tokyo-night&area=true"/>
 </p>
 
 ---
