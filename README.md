@@ -1,9 +1,9 @@
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0099FF&height=180§ion=header&text=%F0%9F%91%8B%20menSalomize,2402" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0099FF&height=180&section=header&text=Salom%2C%20men%20Hikmatillo%20man%20%F0%9F%91%8B" /> 
 </p>
 
 <!-- ============================================= -->
-<!-- 👨‍💻 CODING FROM HOME BOLASI (GIF yoki PNG) -->
+<!-- 👨‍💻 CODING FROM HOME BOLASI -->
 <!-- ============================================= -->
 <p align="center">
   <img src="https://github.com/Hikmatillo-Developer/Hikmatillo-Developer/blob/main/assets/coding-boy.gif" 
@@ -151,5 +151,5 @@
 </blockquote>
 
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0099FF&height=180§ion=footer"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0099FF&height=180&section=footer"/> 
 </p>
