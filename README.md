@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0099FF&height=180&section=header&text=%F0%9F%91%8B%20Salom,%20men%20Hikmatillo&fontSize=40" />
 </p>
 
-<!-- 👨‍💻 O'g'il bola dasturchi animatsiyasi (GitHub-ga yuklangan rasm havolasi) -->
+<!-- 👨‍💻 BU YERGA RASM YOKI ANIMATSIYANI SUDRAB TASHKANG, KEYIN KELIB CHIQAN LINKNI SRC ICHIGA QO'YING -->
 <p align="center">
-  <img src="coding-boy.gif" width="350" alt="Boy Coding Animation"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="150" alt="Arduino Real System" style="vertical-align: middle; margin-right: 20px;"/>
+  <!-- Agarda o'g'il bola dasturchi rasmini yuklasangiz, uni quyidagi qismga qo'ying: -->
+  <!-- <img src="yuklangan-rasm-linki" width="350"/> -->
 </p>
 
 ---
@@ -25,7 +27,6 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="120"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="120"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Espressif_Logo.svg" width="180"/>
 </p>
 
