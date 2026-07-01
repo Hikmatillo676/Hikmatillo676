@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0099FF&height=180&section=header&text=Salom%2C%20men%20Hikmatillo%20man%20%F0%9F%91%8B" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0099FF&height=180&section=header&text=Salom%2C%20men%20Hikmatillo%20%20%F0%9F%91%8B" /> 
 </p>
 
 <!-- ============================================= -->
